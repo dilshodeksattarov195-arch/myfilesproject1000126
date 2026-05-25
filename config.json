@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdalidate",
+        "uuid": 304038,
+        "checksum": "12zeb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
